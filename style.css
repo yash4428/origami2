@@ -1,0 +1,43 @@
+h1 {
+    background-color:rgb(8, 252, 220);
+    color: darkblue;
+    text-align: center;
+}
+.me{
+    background-color:rgb(8, 252, 220);
+    color:rgb(45, 7, 135);
+}
+
+.camel{
+    background-color:orange;
+    display:flex;
+ justify-content: space-evenly;
+   
+}
+.chameleon{
+    background-color:yellowgreen;
+    display:flex;
+ justify-content: space-evenly;
+   
+}
+.panda{
+    background-color:grey;
+    display:flex;
+ justify-content: space-evenly;
+   
+}
+.pigeon{
+    background-color:lightcoral;
+    display:flex;
+ justify-content: space-evenly;
+   
+}
+
+
+
+
+
+/* {
+    border: solid;
+}
+
